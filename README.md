@@ -1,5 +1,7 @@
 ### MuseScore Recorder-Fingering Plugin
 
+![Recorder01-Score](https://user-images.githubusercontent.com/78651456/154768520-360e6053-d8a0-43b9-86de-e762dcf44a8a.png)
+
 This plugin adds recorder fingerings to notes in voice 1 of a score,
 either to selected measures or to the entire score.  
 The free font RecorderFont.ttf is required.
