@@ -7,7 +7,7 @@ This plugin adds recorder fingering glyphs to notes in voice 1 of a score, eithe
 
 ### Copyright
 
-##### Copyright (C) 2022 yonah_ag
++ ##### Copyright (C) 2022 yonah_ag
 
 + This program is free software; you can redistribute it or modify it under
 the terms of the GNU General Public License version 3 as published by the
