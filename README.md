@@ -5,6 +5,8 @@ This plugin adds recorder fingering glyphs to notes in voice 1 of a score, eithe
 
 ![Recorder01-Score](https://user-images.githubusercontent.com/78651456/154768520-360e6053-d8a0-43b9-86de-e762dcf44a8a.png)
 
+### Copyright
+
 ##### Copyright (C) 2022 yonah_ag
 
 This program is free software; you can redistribute it or modify it under
@@ -16,4 +18,9 @@ https://www.fontspace.com/recorder-font-f13338
 
 ### Installation
 
+Download RecorderFont.ttf and install it into your OS.
+
+Download RecorderFingering.qml and follow the handbook instructions:
 https://musescore.org/en/handbook/3/plugins
+
+### Using the plugin
