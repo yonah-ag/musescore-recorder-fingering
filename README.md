@@ -11,7 +11,7 @@ This plugin adds recorder fingering glyphs to notes in voice 1 of a score, eithe
 
 This program is free software; you can redistribute it or modify it under
 the terms of the GNU General Public License version 3 as published by the
-Free Software Foundation and appearing in the accompanying LICENSE file.
+Free Software Foundation and appearing in the LICENSE file.
 
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/LICENSE
 
