@@ -3,7 +3,7 @@
 This plugin adds recorder fingering glyphs to notes in voice 1 of a score, either to selected measures or to the entire score. There are 4 settings available which control the position and size of the glyphs.
 
 
-![Recorder01-Score](https://user-images.githubusercontent.com/78651456/154768520-360e6053-d8a0-43b9-86de-e762dcf44a8a.png)
+![01](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder01-Score.png)
 
 ### Copyright
 
@@ -27,3 +27,5 @@ https://www.fontspace.com/recorder-font-f13338
   https://musescore.org/en/handbook/3/plugins
 
 ### Using the plugin
+
+![02](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder02-Run.png)
