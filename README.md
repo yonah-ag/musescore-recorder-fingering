@@ -26,6 +26,6 @@ https://www.fontspace.com/recorder-font-f13338
 #### Using the plugin
 
 + Select a range of measures, or use without selection to apply to all measures.
-+ From the Plugins menu select Recorder Fingering
++ From the **Plugins** menu select **Recorder Fingering**
  
-![02](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder02-Run.png)
+> ![02](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder02-Run.png)
