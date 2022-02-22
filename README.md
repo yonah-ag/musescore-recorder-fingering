@@ -4,37 +4,34 @@ This plugin adds recorder fingering glyphs to notes in voice 1 of a score, eithe
 
 ![01](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder01-Score.png)
 
-### Copyright
+### License
 
-+ Copyright (C) 2022 yonah_ag
+Copyright (C) 2022 yonah_ag
 
-+ This program is free software; you can redistribute it or modify it under
-the terms of the GNU General Public License version 3 as published by the
-Free Software Foundation and appearing in the LICENSE file.  
-https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/LICENSE
+This program is free software; you can redistribute it or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation and appearing in the LICENSE file.  
+See https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/LICENSE
 
-+ RecorderFont is freeware by algomgom and was downloaded from:  
-https://www.fontspace.com/recorder-font-f13338
+RecorderFont is freeware by algomgom and was downloaded from: https://www.fontspace.com/recorder-font-f13338
 
 ### Installation
 
-+ Download RecorderFont.ttf and install it into your OS.
-+ Download RecorderFingering.qml and follow the handbook instructions:  
-  https://musescore.org/en/handbook/3/plugins
+Note: This plugin requires version 3.x of MuseScore.
+
+1. Download RecorderFont.ttf and install it into your OS.
+2. Download RecorderFingering.qml then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
 
 ### Using the Plugin
 
-+ Select a range of measures, or use without selection to apply to all measures.
-+ From the **Plugins** menu select **Recorder Fingering** then press **Apply**.
+Select a range of measures, or use without selection to apply to all, then from the **Plugins** menu select **Recorder Fingering** and press **Apply**.
  
   ![02](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder02-Run.png)
   
-+ Plugin settings are available for hole size, x-offset, y-offset and autoplacement:
+Plugin settings are available for hole size, x-offset, y-offset and autoplacement:
 
   ![03](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder03-Setup.png)
   
-  Use the **X** button to close the plugin dialogue.
+  Use the **X** button to close the dialogue.
   
 ### Additional Files
 
-+ RecorderFingering.mscx : Musescore file suitable for testing the plugin.
+Recorder.mscz : a simple Musescore file for testing the plugin.
