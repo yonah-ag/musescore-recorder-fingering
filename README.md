@@ -1,4 +1,4 @@
-## MuseScore Recorder-Fingering Plugin
+# MuseScore Recorder Fingering Plugin
 
 This plugin adds recorder fingering glyphs to notes in voice 1 of a score, either to selected measures or to the entire score. There are 4 settings available which control the position and size of the glyphs.
 
