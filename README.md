@@ -42,4 +42,4 @@ https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/Recorder.mscz
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/NOTES.md
 
 Link to official MuseScore Project page for this plugin:  
-(to be confirmed)
+https://musescore.org/en/project/apply-recorder-fingering-glyphs-score
