@@ -11,11 +11,12 @@ Copyright (C) 2022 yonah_ag
 This program is free software; you can redistribute it or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation and appearing in the LICENSE file.  
 See https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/LICENSE
 
-RecorderFont is freeware by algomgom and was downloaded from: https://www.fontspace.com/recorder-font-f13338
+RecorderFont.ttf is a freeware font by algomgom and was downloaded from:  
+https://www.fontspace.com/recorder-font-f13338
 
 ### Installation
 
-Note: This plugin requires version 3.x of MuseScore.
+_Note: This plugin requires version 3.x of MuseScore._
 
 1. Download RecorderFont.ttf and install it into your OS.
 2. Download RecorderFingering.qml then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
