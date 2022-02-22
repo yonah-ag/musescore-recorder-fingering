@@ -13,19 +13,28 @@ the terms of the GNU General Public License version 3 as published by the
 Free Software Foundation and appearing in the LICENSE file.  
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/LICENSE
 
-+ RecorderFont is freeware by algomgom and was downloaded from:
++ RecorderFont is freeware by algomgom and was downloaded from:  
 https://www.fontspace.com/recorder-font-f13338
 
 ### Installation
 
 + Download RecorderFont.ttf and install it into your OS.
-
-+ Download RecorderFingering.qml and follow the handbook instructions:
++ Download RecorderFingering.qml and follow the handbook instructions:  
   https://musescore.org/en/handbook/3/plugins
 
-### Using the plugin
+### Using the Plugin
 
 + Select a range of measures, or use without selection to apply to all measures.
-+ From the **Plugins** menu select **Recorder Fingering**
++ From the **Plugins** menu select **Recorder Fingering** then press **Apply**.
  
   ![02](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder02-Run.png)
+  
++ Plugin settings are available for hole size, x-offset, y-offset and autoplacement:
+
+  ![03](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder03-Setup.png)
+  
+  Use the **X** button to close the plugin dialogue.
+  
+### Additional Files
+
++ RecorderFingering.mscx : Musescore file suitable for testing the plugin.
