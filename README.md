@@ -32,6 +32,13 @@ Plugin settings are available for hole size, x-offset, y-offset and autoplacemen
   
   Use the **X** button to close the dialogue.
   
-### Additional Files
+### Additional Files and Links
 
-Recorder.mscz : a simple Musescore file for testing the plugin.
+**Recorder.mscz** : a simple Musescore file for testing the plugin:  
+https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/Recorder.mscz
+
+**Notes.md** : development notes, including version history:  
+https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/NOTES.md
+
+Link to official MuseScore Project page for this plugin:  
+(to be confirmed)
