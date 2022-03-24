@@ -33,7 +33,13 @@ Plugin settings are available for hole size, x-offset, y-offset and autoplacemen
   
   Use the **X** button to close the dialogue.
   
-### Additional Files and Links
+### Additional Info and Links
+
+The plugin covers the note range C5 to C7.
+
+For a soprano recorder this is commonly notated on an octave clef where the souding pitches are actually an octave higher than written.
+In MuseScore, choosing a recorder as the stave instrument will use this ocatve clef.
+
 
 **Recorder.mscz** : a simple Musescore file for testing the plugin:  
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/Recorder.mscz
