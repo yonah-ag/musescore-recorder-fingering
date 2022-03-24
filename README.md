@@ -56,5 +56,5 @@ https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/Recorder.mscz
 **Notes.md** : development notes, including version history:  
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/NOTES.md
 
-Link to official MuseScore Project page for this plugin:  
+Official MuseScore Project page for this plugin:  
 https://musescore.org/en/project/apply-recorder-fingering-glyphs-score
