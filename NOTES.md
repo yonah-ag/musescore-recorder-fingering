@@ -5,4 +5,5 @@
 <pre>
 17 Feb 2022 | v1.0.0 | Initial release with settings changed by editing the QML file.
 22 Feb 2022 | v1.0.1 | Added user interface dialogue to change setttings.
+24 Mar 2022 | v1.0.2 | Extend range to C7
 </pre>
