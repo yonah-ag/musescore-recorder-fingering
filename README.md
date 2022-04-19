@@ -12,8 +12,8 @@ Copyright (C) 2022 yonah_ag
 This program is free software; you can redistribute it or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation and appearing in the LICENSE file.  
 See https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/LICENSE
 
-RecorderFont.ttf is a freeware font by algomgom and was downloaded from:  
-https://www.fontspace.com/recorder-font-f13338
+RecorderFont.ttf is a freeware font by algomgom and was downloaded from: https://www.fontspace.com/recorder-font-f13338  
+However, this version was not macOS compatible so a new version was uploaded to this repository on 19 Apr 2022.
 
 ### Installation
 
@@ -50,11 +50,11 @@ Using a standard treble clef, (e.g. violin),
 the range C5 to C7 will appear as:  
 ![05](https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/images/Recorder05-Clef.png)
 
-**Recorder.mscz** : a simple Musescore file for testing the plugin:  
+**Recorder.mscz** : a simple Musescore file for testing the plugin  
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/Recorder.mscz
 
-**Notes.md** : Release Notes:  
+**Notes.md** : Release Notes  
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/NOTES.md
 
-Official MuseScore Project page for this plugin:  
+Official MuseScore Project page for this plugin  
 https://musescore.org/en/project/apply-recorder-fingering-glyphs-score
