@@ -1,4 +1,4 @@
-## MuseScore Recorder Fingering Plugin Notes
+## MuseScore Recorder Fingering Plugin: Release Notes
 
 ### Version History
 
