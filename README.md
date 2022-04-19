@@ -53,7 +53,7 @@ the range C5 to C7 will appear as:
 **Recorder.mscz** : a simple Musescore file for testing the plugin:  
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/Recorder.mscz
 
-**Notes.md** : development notes, including version history:  
+**Notes.md** : Release Notes:  
 https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/NOTES.md
 
 Official MuseScore Project page for this plugin:  
